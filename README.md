@@ -94,6 +94,6 @@ ORDER BY sales_month;
 
 - ## Sample Query Outputs
 ### Top 5 Highest Spending Customers
-![Top Customers](top_customers_output.png)
+![Top Customers](top_customer_output.png)
 ### Monthly Revenue Trend
 ![Monthly Revenue](monthly_revenue_output.png)
